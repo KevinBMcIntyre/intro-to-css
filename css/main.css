@@ -1,4 +1,32 @@
 html {
 	background-color: #1b98d7;
-color: #fff;
+	color: #fff;
+}
+h1, h2 {
+	color: navy;
+	font-weight: normal;
+	font-size: 5rem;
+	line-height: 1;
+	text-shadow: 2px -5px 10px blue;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+p{
+	font-style: itlaic;
+	text-decoration: underline;
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+ol {
+	list-style-type: none;
+	padding: 0;
+}
+
+a{
+	color: skyblue;
+}
+
+a:hover{
+color:red;
 }
